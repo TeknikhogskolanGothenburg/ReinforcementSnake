@@ -1,0 +1,6 @@
+state = [0, 1, 0,       -> Danger Path
+         0, 0, 1,
+         0, 0, 1, 0,    -> Current direction
+         1, 0, 0, 0]    -> Fruit location
+
+action = [0, 0, 1]
